@@ -1,0 +1,3 @@
+Hallo dunia, nama saya Gagah
+
+Sekarang saya sedang belajar git dan github
